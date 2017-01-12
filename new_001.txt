@@ -1,6 +1,7 @@
 new_ONE
 
 I edited this line for commit 7.
+AND AGAIN FOR commit 9.
 
 -
 
